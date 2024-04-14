@@ -386,6 +386,11 @@
         transform: translateX(-70%);
     }
 }
+@media (max-width: 400px) {
+    .contact {
+        transform: translateX(-85%);
+    }
+}
 
 
 /*** Footer ***/
